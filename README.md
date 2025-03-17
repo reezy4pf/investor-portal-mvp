@@ -32,4 +32,4 @@ This is a Minimum Viable Product (MVP) for the Canary Wealth Fund investor porta
 - **Enhanced Messaging with Notifications**: Improve the messaging system to include real-time notifications, ensuring timely communication between investors and fund managers.
 - **KYC/AML Integration**: Integrate Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance checks to ensure regulatory compliance.
 - **Automated Reporting**: Add automated reporting features to generate and send regular portfolio performance reports to investors.
-- **Mobile app version for admin
+- **Mobile App Version**: Develop a mobile app version specifically for admins to provide them with the ability to manage the portal on the go.
